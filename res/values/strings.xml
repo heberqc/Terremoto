@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Terremoto</string>
+    <string name="menu_intro">Introduction</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="dont_show">Don\'t show this again</string>
+    <string name="description">This application show the last earthquakes and their data (location of the epicenter, intensity, date and time, etc).</string>
+    <string name="logo_descrip">Application Logo</string>
+    <string name="next">Next</string>
+    <string name="None">(None)</string>
+    <string name="visit_web">Visit Web</string>
+    <string name="view_location">View Location</string>
+    <string name="title">Title</string>
+    <string name="magnitude">Magnitude :</string>
+    <string name="location">Location :</string>
+    <string name="depth">Depth (Hypocenter):</string>
+    <string name="latitude">Latitude :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="date_time">Date - Time :</string>
+    <string name="link">Link :</string>
+    <string name="richter">Richter degrees</string>
+    <string name="loading">Loading</string>
+
+</resources>

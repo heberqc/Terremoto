@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Terremoto</string>
+    <string name="menu_intro">Introduccion</string>
+    <string name="menu_refresh">Actualizar</string>
+    <string name="dont_show">No volver a mostrar esto</string>
+    <string name="description">Esta aplicacion muestra los últimos terremotos ocurridos y sus datos (ubicación del epicentro, intensidad, fecha y hora, etc.)</string>
+    <string name="logo_descrip">Logo de la aplicación</string>
+    <string name="next">Siguiente</string>
+    <string name="None">(Nada)</string>
+    <string name="visit_web">Visitar Web</string>
+    <string name="view_location">Ver Ubicación</string>
+    <string name="title">Titulo</string>
+    <string name="magnitude">Magnitud :</string>
+    <string name="location">Ubicación :</string>
+    <string name="depth">Profundidad (Hipocentro):</string>
+    <string name="latitude">Latitud :</string>
+    <string name="longitude">Longitud :</string>
+    <string name="date_time">Fecha - Hora :</string>
+    <string name="link">Link :</string>
+    <string name="richter">grados Richter</string>
+    <string name="loading">Cargando</string>
+
+</resources>
